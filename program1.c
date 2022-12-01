@@ -2,6 +2,6 @@
 
 int main()
 {
-	printf("zilogic chennai\n");
+	printf("zilogic chennai IOT\n");
 	return 0;
 }
